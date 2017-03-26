@@ -1,0 +1,9 @@
+{
+  "name": "null-logger",
+  "version": "1.0.0",
+  "description": "Null Logger",
+  "main": "index.js",
+  "repository": "github.com/ordermentum/null-logger",
+  "author": "Ordermentum Pty Ltd",
+  "license": "Apache-2.0"
+}
