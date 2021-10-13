@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "es2017"
+    ],
+    "outDir": "build",
+    "declaration": true,
+    "target": "es2017",
+    "module": "commonjs",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true // There is a types mismatch between @types/mocha (from @ordermentum/serdes_changelog) and @types/jest
+  },
+  "include": [
+    "src",
+    "test"
+  ]
+}
